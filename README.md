@@ -26,7 +26,7 @@ Per seguire queste lezioni, è necessaria una moderna installazione di python, o
 
 In alternativa, se non è possibile installare jupyter sul proprio computer, è possibile utilizzare l'ambiente online mybinder, che è fondamentalmente una versione online della repository. Notate che il codice non verrà eseguito sul vostro computer, e che perderete il vostro lavoro se chiudete la finestra del browser. Per lanciare la pagina mybinder per il corso, cliccate qui! 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SZapperi/CorsoProbabilitaStatistica/master?urlpath=lab)
 
 Dopo aver completato un notebook, ricordatevi di scaricarlo sul vostro computer locale!
 
