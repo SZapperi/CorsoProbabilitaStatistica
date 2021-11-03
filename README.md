@@ -44,11 +44,11 @@ $ which python
 ```
 Clone this repository
 ```bash
-$ git clone https://github.com/fontclos/stat-mech-python-course.git
+$ git clone https://github.com/SZapperi/CorsoProbabilitaStatistica.git
 ```
-A new folder called `stat-mech-python-course` will be created. Enter it and start jupyter by typing `jupyter lab`
+A new folder called `CorsoProbabilitaStatistica` will be created. Enter it and start jupyter by typing `jupyter lab`
 ```bash
-$ cd stat-mech-python-course
+$ cd CorsoProbabilitaStatistica
 $ jupyter lab
 ```
 A browser window/tab pointing to `localhost:8888` will open automatically. Open the `notebooks` folder, then open the first notebook by double-clicking `1-Generating-Random-Numbers.ipynb`. You are ready to go!
