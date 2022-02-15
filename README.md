@@ -22,6 +22,8 @@ ISBN-13: 978-3319283159
 
 Per seguire queste lezioni, è necessaria una moderna installazione di python, oltre a jupyter, numpy, matplotlib e alcune altre librerie  standard di python. Il modo più semplice per installare tutti questi pacchetti senza interferire con l'attuale installazione di python è la distribuzione Anaconda. Scegliete python 3.x e il vostro sistema operativo, scaricate, installate e dovreste essere a posto.
 
+Per scaricare anaconda: https://www.anaconda.com/products/individual
+
 ## Usare un ambiente online
 
 In alternativa, se non è possibile installare jupyter sul proprio computer, è possibile utilizzare l'ambiente online mybinder, che è fondamentalmente una versione online della repository. Notate che il codice non verrà eseguito sul vostro computer, e che perderete il vostro lavoro se chiudete la finestra del browser. Per lanciare la pagina mybinder per il corso, cliccate qui! 
